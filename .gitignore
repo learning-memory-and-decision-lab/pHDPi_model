@@ -1,0 +1,21 @@
+
+
+*.asv          # autosave files
+*.m~           # backup files
+*.mex*         # compiled MEX files
+*.mat          # data files (often — see note below)
+*.slxc         # Simulink cache
+slprj/         # Simulink project folder
+*.autosave
+octave-workspaceSupplementary/
+Model Data/
+knockIn/
+BakstSimulation/
+knockIn/
+BakstSimulation/
+Model Data/
+model data final check/
+human data final check/
+Supplementary/
+FolderName/
+humans data final check/
